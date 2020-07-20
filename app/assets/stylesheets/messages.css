@@ -88,19 +88,19 @@
   margin: 10px 0;
 }
 
-.upper-message {
+.upper-message{
   display: flex;
 }
 
 .message-user {
-  font-size: 16px;
   color: #434a54;
+  font-size: 16px;
 }
 
 .message-date {
-  margin-left: 10px;
-  font-size: 12px;
   color: #999;
+  font-size: 12px;
+  padding-left: 10px;
 }
 
 .lower-message {
@@ -108,8 +108,8 @@
 }
 
 .message-content {
-  font-size: 14px;
   color: #434a54;
+  font-size: 14px;
   margin-bottom: 40px;
 }
 
@@ -122,26 +122,26 @@
 }
 
 .form-input {
-  width: 100%;
-  display: flex;
   background-color: white;
+  display: flex;
+  width: 100%;
 }
 
 .form-message {
-  width: 100%;
-  height: 50px;
-  padding-left: 10px;
   border: none;
+  height: 50px;
+  width: 100%;
+  padding-left: 10px;
 }
 
 .form-submit {
-  background-color: #38aef0;
+  background-color: #38AEF0;
   border: none;
-  height: 50px;
-  padding: 0 20px;
-  font-size: 16px;
   color: white;
+  font-size: 16px;
+  height: 50px;
   margin-left: 15px;
+  padding: 0 20px;
 }
 
 .form-image {
